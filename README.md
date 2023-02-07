@@ -10,24 +10,27 @@
 
 </div>
 
-<div  align="center"><img src="https://media.giphy.com/media/iJgspmJ6xLipnP6TW5/giphy.gif" width="80px"/></div>
+
 
 <div  style:"display:flex; gap:20px;" align="center">
 :hammer_and_wrench: Languages and Tools
 <br/>
-<br/></div>
+</div>
 
 
 
 <div  align="center">
+<br/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="35px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35px"/>
-
+<br/>
+<br/>
 </div>
-
+<div  align="center"><img src="https://media.giphy.com/media/l4EoYJ0w7O59m8CFW/giphy.gif" width="50%"/>
+</div>
 <!--
 **mtaman/mtaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
