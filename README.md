@@ -9,10 +9,18 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mtaman&theme=dark&border_radius=6)](https://git.io/streak-stats)
 
 </div>
+<div  style:"display:flex; gap:20px;" align="center">
+:hammer_and_wrench: Languages and Tools
+<br/>
+<br/></div>
+<div  style:"display:flex; gap:20px;" align="center">
 
-### :hammer_and_wrench: Languages and Tools :
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="35px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35px"/>
 
-
+</div>
 <!--
 **mtaman/mtaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
