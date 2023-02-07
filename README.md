@@ -1,4 +1,13 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif/>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **mtaman/mtaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
