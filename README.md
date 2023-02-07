@@ -13,6 +13,7 @@
 
 
 <div  style:"display:flex; gap:20px;" align="center">
+
 :hammer_and_wrench: Languages and Tools
 <br/>
 </div>
@@ -28,10 +29,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35px"/>
 <br/>
 <br/>
+  
+  <br/><img src="https://www.codewars.com/users/mtaman/badges/large" width="50%"/><br/><br/><br/>
 </div>
+
+
+
+
+
+
+<!--
 <div  align="center"><img src="https://media.giphy.com/media/l4EoYJ0w7O59m8CFW/giphy.gif" width="50%"/>
 </div>
-<!--
+
 **mtaman/mtaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
