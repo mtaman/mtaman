@@ -29,11 +29,7 @@ A web workbench for AI agents and direct LLM interaction.
 
 → **[OpenManus-Web](https://github.com/mtaman/OpenManus-Web)**
 
-### OpenManus
 
-Exploring autonomous AI agents, tool use, and agentic workflows.
-
-→ **[OpenManus](https://github.com/mtaman/OpenManus)**
 
 ---
 
