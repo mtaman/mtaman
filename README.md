@@ -27,7 +27,7 @@ A web workbench for AI agents and direct LLM interaction.
 [![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-→ **[OpenManus-Web](https://github.com/mtaman/OpenManus-Web)**
+→ **[Peldrun](https://github.com/peldrun/peldrun)**
 
 
 
