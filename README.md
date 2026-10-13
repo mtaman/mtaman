@@ -7,7 +7,7 @@
 Building AI-powered products, agent systems, and web applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mtaman-181717?style=flat-square&logo=github)](https://github.com/mtaman)
-[![OpenManus-Web](https://img.shields.io/badge/Building-OpenManus--Web-111827?style=flat-square&logo=github)](https://github.com/mtaman/OpenManus-Web)
+[![PELDRUN](https://img.shields.io/badge/Building-PELDRUN-111827?style=flat-square&logo=github)](https://github.com/peldrun/peldrun)
 
 </div>
 
