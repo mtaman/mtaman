@@ -57,7 +57,6 @@ A web workbench for AI agents and direct LLM interaction.
 
 **Idea → Prompt → Prototype → Test → Iterate → Ship**
 
-I use AI to accelerate implementation while keeping architecture, UX, debugging, and product decisions human-driven.
 
 ---
 
