@@ -59,5 +59,5 @@ A web workbench for AI agents and direct LLM interaction.
 
 
 ---
-
+B . E . L . D . R . U . N
 **Build useful things. Keep it simple. Ship.**
